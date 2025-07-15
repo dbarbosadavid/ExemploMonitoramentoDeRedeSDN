@@ -7,6 +7,7 @@ Topologia de rede no Mininet configurada em Python com Switch BMv2 (utilizando l
 REQUISITOS PARA EXECUCAO
 
 SISTEMA UBUNTU 20.04
+
 Dependencias necessarias: P4C, BMv2, Mininet
 
 ---------------------------------------------------------------------------------------------
