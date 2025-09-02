@@ -1,3 +1,5 @@
+## Desenvolvido para fins acadêmicos
+
 EXEMPLO DE MINI-REDE NO MININET
 
 Topologia de rede no Mininet configurada em Python com Switch BMv2 (utilizando linguagem P4)
